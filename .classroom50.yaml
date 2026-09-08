@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "pm-class"
+assignment: "css-cv"
+owner:
+  username: "aidensonn"
+  id: 208518274
+  accepted_at: "2026-09-08T04:27:07Z"
+source:
+  owner: "CSCI4300-Web-Programming"
+  owner_id: 212650580
+  repo: "css-cv-template"
+  branch: "main"
